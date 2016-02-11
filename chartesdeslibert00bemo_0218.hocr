@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chartesdeslibert00bemo_0218.png"; bbox 0 0 1796 3153; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 502 49 1478 202">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 502 49 1478 202">
+     <span class='ocr_line' id='line_1_1' title="bbox 524 49 1456 82; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 524 50 816 82; x_wconf 83' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 840 50 902 81; x_wconf 84' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 925 49 1222 81; x_wconf 75' lang='lat' dir='ltr'>CALIFORNIA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1245 50 1456 82; x_wconf 82' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 875 103 1106 146; baseline 0 -10"><span class='ocrx_word' id='word_1_5' title='bbox 875 104 943 136; x_wconf 83' lang='lat' dir='ltr'><strong>Los</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 955 103 1106 146; x_wconf 84' lang='lat' dir='ltr'>Angeles</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 502 158 1478 202; baseline 0.001 -13"><span class='ocrx_word' id='word_1_7' title='bbox 502 158 594 190; x_wconf 87' lang='lat' dir='ltr'>This</span> <span class='ocrx_word' id='word_1_8' title='bbox 605 158 700 191; x_wconf 86' lang='lat' dir='ltr'><strong>book</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 713 158 741 190; x_wconf 86' lang='lat' dir='ltr'><strong>is</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 753 159 851 190; x_wconf 87' lang='lat' dir='ltr'><strong>DUE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 864 168 914 190; x_wconf 86' lang='lat' dir='ltr'><strong>on</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 926 158 988 190; x_wconf 85' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 999 158 1069 190; x_wconf 83' lang='lat' dir='ltr'>last</span> <span class='ocrx_word' id='word_1_14' title='bbox 1079 159 1165 190; x_wconf 86' lang='lat' dir='ltr'>date</span> <span class='ocrx_word' id='word_1_15' title='bbox 1176 159 1341 202; x_wconf 81' lang='lat' dir='ltr'>stamped</span> <span class='ocrx_word' id='word_1_16' title='bbox 1353 159 1478 191; x_wconf 85' lang='lat' dir='ltr'><strong>below.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 202 2053 561 2081">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 202 2053 561 2081">
+     <span class='ocr_line' id='line_1_4' title="bbox 202 2053 561 2081; baseline -0.006 -1"><span class='ocrx_word' id='word_1_17' title='bbox 202 2055 293 2081; x_wconf 84' lang='lat' dir='ltr'><strong>Form</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 310 2053 484 2080; x_wconf 84' lang='lat' dir='ltr'><strong>L9—Series</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 499 2053 561 2078; x_wconf 88' lang='lat'><strong>444</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 220 1796 3153">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 220 1796 3153">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 220 1796 3153; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 220 1796 3153; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
